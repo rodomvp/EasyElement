@@ -13,6 +13,7 @@
                 { "caption": "h5", "command": "easy_element", "args": { "element_start": "<h5>", "element_end": "</h5>" } },
                 { "caption": "h6", "command": "easy_element", "args": { "element_start": "<h6>", "element_end": "</h6>" } },
                 { "caption": "-" },
+                { "caption": "p", "command": "easy_element", "args": { "element_start": "<p>", "element_end": "</p>" } },
                 { "caption": "ul", "command": "easy_element", "args": { "element_start": "<ul>", "element_end": "</ul>" } },
                 { "caption": "ol", "command": "easy_element", "args": { "element_start": "<ol>", "element_end": "</ol>" } },
                 { "caption": "li", "command": "easy_element", "args": { "element_start": "<li>", "element_end": "</li>" } },
